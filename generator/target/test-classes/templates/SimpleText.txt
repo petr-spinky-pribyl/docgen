@@ -1,0 +1,5 @@
+# Markup simple text template
+
+Template for simple text substitution
+
+${}
